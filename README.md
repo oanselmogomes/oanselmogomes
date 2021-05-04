@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oanselmogomes
 - 👀 I’m interested in tech, education and artificial intelligence
-- 🌱 I’m currently learning react and machine learning
+- 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on educational platforms
 - 📫 Reach me on https://www.anselmo.com.br
 
