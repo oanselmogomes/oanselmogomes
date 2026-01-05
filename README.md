@@ -1,6 +1,6 @@
 # Fala dev, sou Anselmo da Gigabaite 🚀
 
-### Na Giga a gente transforma café e pão de queijo em tecnologia caprichada e a prova de futuro
+### Na Giga transformamos café e pão de queijo em tecnologia caprichada e a prova de futuro
 
 [![Website](https://img.shields.io/badge/Website-gigabaite.com.br-0078d7?style=for-the-badge)](https://www.gigabaite.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gigabaite-blue?style=for-the-badge)](https://www.linkedin.com/company/gigabaiteti/)
